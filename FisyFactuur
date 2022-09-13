@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jerzy's Billing</title>
+    <title>FisyFactuur</title>
     <link rel="stylesheet" href="./assets/css/main.css">
     <link href="https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp" rel="stylesheet">
 </head>
@@ -14,7 +14,7 @@
             <div class="billing_box">
                 <div class="billing_box_header">
                     <h1>Factuur</h1>
-                    <span class="copyright_billing">WestVlaanderen</span>
+                    <span class="copyright_billing">West-Vlaanderen</span>
                     <div class="billing_close">
                         <span class="material-icons">
                             close
@@ -27,7 +27,7 @@
                         <input type="number" name="player_id" id="player_id" class="billing_item_input" placeholder="Speler ID">
                     </div>
                     <div class="billing_group">
-                        <label for="billing_ammount" class="billing_input_label">Ammount</label>
+                        <label for="billing_ammount" class="billing_input_label">bedrag</label>
                         <input type="number" name="billing_ammount" id="billing_ammount" class="billing_item_input" placeholder="1000,00">
                         <span class="billing_ammount_dollar_sign">€</span>
                     </div>

@@ -50,7 +50,7 @@
                     </div>
                 </div>
                 <div class="billing_box_footer">
-                    <div class="billing_btn secondary billing_close">sluiten</div>
+                    <div class="billing_btn secondary billing_close">Sluiten</div>
                     <div class="billing_btn primary billing_submit">Bevestigen</div>
                 </div>
             </div>

@@ -1,0 +1,1 @@
+local RewardInventory = true -- true = give items inside of an inventory box, false = give item directly
